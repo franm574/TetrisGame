@@ -1,3 +1,6 @@
+#TetrisGame
+A simple Tetris game for learning how to use Github
+
 ## Welcome to GitHub Games
 
 A project based learning activity for people who are getting started with Git and GitHub.
@@ -9,6 +12,6 @@ To play the game:
 1. Click **Save**.
 1. Navigate to the URL provided in the same section.
 
->> _*SUPPORTED BROWSERS*: Chrome, Firefox, Safari, Opera and IE9+_
+*SUPPORTED BROWSERS*: Chrome, Firefox, Safari, Opera and IE9+
 
 This fun open source game was cloned from: https://github.com/jakesgordon/javascript-tetris
